@@ -9,7 +9,6 @@ var currLang = "en";
 window.addEventListener("load", function () {
   load_text();
   showLanguage("en");
-  audio.play();
 });
 
 function load_text(lang) {
@@ -42,7 +41,7 @@ function load_text(lang) {
     .catch((error) => console.error(error));
 }
 
-const TalkingChance = 30;
+const TalkingChance = 35;
 
 const shakePhoto = () => {
   const randomNum = Math.floor(Math.random() * 30);
@@ -60,7 +59,7 @@ const generate = () => {
 };
 
 const usedQuotes = new Set();
-var usedQuotesCount = 40;
+var usedQuotesCount = 45;
 
 const generateMind = () => {
   let randomMind;
@@ -151,3 +150,4 @@ function showLanguage(lang) {
   szloch.addEventListener("click", shakePhoto);
   mind = selectedVersion.querySelector(".mind");
 }
+
