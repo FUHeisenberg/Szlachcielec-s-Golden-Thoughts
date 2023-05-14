@@ -5,6 +5,7 @@ const toggleTalkingButton = document.getElementById("toggleTalkingButton");
 const toggleTalkingImg = document.getElementById("toggleTalkingImg");
 let mindArr = [];
 var currLang = "en";
+var sou = true;
 
 window.addEventListener("load", function () {
   load_text();
@@ -44,6 +45,10 @@ function load_text(lang) {
 const TalkingChance = 35;
 
 const shakePhoto = () => {
+  if(sou){
+    audio.play();
+    sou = false;
+  }
   const randomNum = Math.floor(Math.random() * 30);
   if (randomNum === 0 && TalkingSzloch == 1 && currLang === "pl") {
     playRandomTrack();
