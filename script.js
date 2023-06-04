@@ -25,7 +25,7 @@ function load_text(lang) {
       fileName = "russian.txt";
       break;
     default:
-      fileName = "szlochlist.txt";
+      fileName = "englist.txt";
   }
   fetch("quotes/" + fileName)
     .then((response) => response.text())
