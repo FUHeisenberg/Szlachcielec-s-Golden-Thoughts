@@ -64,7 +64,7 @@ const generate = () => {
 };
 
 const usedQuotes = new Set();
-var usedQuotesCount = 45;
+var usedQuotesCount = 90;
 
 const generateMind = () => {
   let randomMind;
