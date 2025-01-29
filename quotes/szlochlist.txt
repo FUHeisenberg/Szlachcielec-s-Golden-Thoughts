@@ -167,7 +167,6 @@ Ale póki co zbliżasz się do granicy po której przekroczeniu nie będzie odwr
 "nie masz perspektyw i ciebie to boli ja realizuje swoje cele zyciowe",
 "a ratzix ty sie nie wypowiadaj na temat pieniedzy bo jestes kidem ktory robi wszystko to co ktos mu kaze i myślisz, że ratlak to jest jakiś gość",
 "W przyszłym tygodniu delfi już na tym serwerze nie będzie więc będzie porządek po mojej wizycie ona i jej synowie będą nosić ciuchy z czarnej folii",
-"Jeśli nazywasz mnie spoceńcem to siebie nazwij botem",
 "Widzę że towarzystwo wzajemnej adoracji, wyjmujesz moje wypowiedzi z kontekstu i odbierasz tak jak chcesz odbierać, po pierwsze moja wypowiedz nie była do ciebie
 Po drugie nie wyzyższam się bo znam swoją wartość tylko bronie przed oskarżeniami",
 "Język slumsów. Dla mnie jest to hipokryzja i stosowanie podwójnych standardów oraz umniejszanie znajdującym się po drugiej stronie barykady",
@@ -181,3 +180,4 @@ Po drugie nie wyzyższam się bo znam swoją wartość tylko bronie przed oskar�
 "Jesteście tacy upośledzeni, że piszecie na dwóch komputerach i ssiecie własnego kutasa na drugim komputerze i koncie",
 "Przegrany w życiu, przegrany w grze, przegrany na zawsze.",
 "@Admin Daj mu rangę pies",
+"A twój ojciec został zgwałcony przez cygana i urodził twoją matkę"
